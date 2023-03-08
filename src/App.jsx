@@ -1,5 +1,6 @@
 import { useState,useEffect } from "react";
 import Table from "./components/Table.jsx";
+import "./App.css";
 
 //instalar el Servidor de Node en Otra pagina
 //y llamar la nueva direccion

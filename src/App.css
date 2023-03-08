@@ -1,0 +1,20 @@
+@media (max-width: 450px)     
+     { 
+
+      nav{
+        height:70px;
+      } 
+     .card{
+        position: relative;
+        left: 40px;
+     }
+
+     table{
+        position: relative;
+        left:40px
+     }
+     .iconos{
+        height: 30px;
+     }
+
+    }
